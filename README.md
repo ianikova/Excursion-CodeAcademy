@@ -1,2 +1,2 @@
-# excursion
- a web page which advertises a product called “Excursion.”
+# Excursion
+ a web page that advertises a product called “Excursion.”
